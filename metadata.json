@@ -1,0 +1,6 @@
+{
+  "name": "গ্রাম সুরক্ষা ও জরুরি এলার্ম নেটওয়ার্ক",
+  "description": "গ্রামের নিরাপত্তা ও প্রতিরক্ষায় স্যাটেলাইট ম্যাপ, বাড়ি-রাস্তার সচেতন যুবকদের ফোন তালিকা এবং তাৎক্ষণিক জরুরি এলার্ম সাইরেন সম্প্রচার।",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
